@@ -30,15 +30,15 @@ You can click the Preview link to take a look at your changes.
    - JavaScript (over 10 years’ exp)
    - healthcare field, HIPPA programming and the financial sector
    - functional programmer
-Sports:
-  - Swimming & Diving
-  - JUDO @ Smouha Sporting Club at Alexandria, Egypt (7 yrs) 
-Languages:
- - Tradtional Arabic
- - Egyptian
- - English
- - Spanish
-Allergies:
-  - None
+- Sports:
+    - Swimming & Diving
+    - JUDO @ Smouha Sporting Club at Alexandria, Egypt (7 yrs) 
+- Languages:
+   - Tradtional Arabic
+   - Egyptian
+   - English
+   - Spanish
+- Allergies:
+    - None
   
  
