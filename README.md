@@ -1,5 +1,3 @@
-
-
 <!---
 aa32555/aa32555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -44,7 +42,7 @@ You can click the Preview link to take a look at your changes.
     - None
 
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
-
+![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
@@ -126,7 +124,7 @@ zz(i)  q $p($t(b+i^kissme),";",2,999)
 ```
 
 
-# ![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
+
  
 
 
