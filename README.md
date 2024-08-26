@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
    - Spanish
 - Allergies:
     - None
-- All The Thanks ...
-- ~~~~~~~only thing keeping me going....~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```M
   p       n g,ts,nxt 
 	s g="^kissme" d o ; p l e a s e ;
@@ -119,5 +119,5 @@ o	;
 zz(i)  q $p($t(b+i^kissme),";",2,999)
 
   ```
-  
+  ![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
  
