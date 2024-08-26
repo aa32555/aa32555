@@ -40,13 +40,7 @@ You can click the Preview link to take a look at your changes.
    - Spanish
 - Allergies:
     - None
- 
-
-
-![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
- 
-
-
+![Screenshot 2024-08-26 11 03 25 AM](https://github.com/user-attachments/assets/5d2f5367-fe48-4231-a075-dae29a8f80d9)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,3 +121,14 @@ o	;
 	;
 zz(i)  q $p($t(b+i^kissme),";",2,999)
 ```
+-
+-
+-
+```
+
+![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
+ 
+
+
+
+
