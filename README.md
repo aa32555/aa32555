@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
     - *Account manager*
     - *Director of Implementations and Training*
     - Sr. Software Engineer
-  - 💞️ 💞️ 💞️ VCA.org ( almost 1 yr @ 120k/yr ) [ *Sr. Software Engineer ] 💞️
-  - 💞️ CapitalOne ( 1 day @ 125k/yr ) [MUMPS Systems Engineer] 💞️ 
-  - 💞️ 💞️ 💞️ YottaDB ( contractor gitlab.com/ahmeddydb ) ( 6 months )💞️
+  - 💞️ 💞️ 💞️ VCA.org ( almost 1 yr @ 120k/yr ) [ *Sr. Software Engineer ]  💞️
+  - 💞️       CapitalOne ( 1 day @ 125k/yr ) [MUMPS Systems Engineer] 💞️ 💞️ 💞️ 
+  - 💞️ 💞️ 💞️ YottaDB ( contractor gitlab.com/ahmeddydb ) ( 6 months )      💞️
   - 🌱 420 🌱
  - an expert in
    - 🌱 Mumps 🌱
