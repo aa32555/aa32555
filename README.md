@@ -41,11 +41,12 @@ You can click the Preview link to take a look at your changes.
 - Allergies:
     - None
 - All The Thanks ...
-- ```M
+- ~~~~~~~only thing keeping me going....~~~~~~~
+```M
   p       n g,ts,nxt 
 	s g="^kissme" d o ; p l e a s e ;
 	q
-b	;
+ b	;
 	;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	;; *dedication*
 	;;	 #######################################
