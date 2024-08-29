@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
-## Cuurrent favorite songnby Mrs Shakira:
+## Cuurrent favorite song by Mrs Shakira:
 
 ```
 رَبُّ السَّماءِ، فيك الرجاءِ
