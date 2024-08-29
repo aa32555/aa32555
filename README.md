@@ -237,14 +237,6 @@ b	;
 	; 0 3 8 1 9 6 4 4 2 8 8
 oo	q
 xxx(x)  w ! w x q
-xx(x)	n a,b,c,z,y
-	s z=1,y=0 s a=$l(x," ") f c=1:1:a d
-	. r nxt
-	. s y=y+1
-	. w:y=z !
-	. s:y=z y=0
-	. w $j((($zut-ts)/1000000),0,2)_"~"_$tr($p(x," ",c),"_"," ")_" "
-	q
 z(i)	i 1
 	d xxx($p($t(b+i^pi),";",2,999)) r nxt d
 	. i nxt="z" s i=i-1 d z(.i) i 1
@@ -259,7 +251,6 @@ o	;
 	e  s @g=1
 	n i,st s i=1,st=$g(st)
 	s nxt=$g(nxt),ts=$zut
-	w #
 	f i=11:1:81 d z(.i)
 	d oo
 	q
