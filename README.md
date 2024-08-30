@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   - 😄 Burger King Staff Employee @ Lodi NJ 2005 ( 1 month ) @ $4.5/hr
   - 😄 Calculus II (152 for Engineers) TA ( 2 sememsters @ $45/week)
   - 😄 Dunkin Donuts @ Garden State Plaza  end of 2011 (6 years @12/h)
-  - 👀 Advanced Data Systems 2019 ( 9 years @100k/yr ) [RYIADH]
+  - 👀 Advanced Data Systems 2019 ( 9 years @100k/yr ) [RYIADH see be..lowww]
     - *Account manager* [RYIADH]
     - *Director of Implementations and Training* [RYIADH]
     - Sr. Software Engineer [RYIADH]
@@ -41,6 +41,10 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
+
+### ads##.net – Advanced Data System (1 like Allah)
+### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
+
 ## Cuurrent favorite song by Mrs Shakira:
 
 ```
