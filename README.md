@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-# 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, circa 1987, september 8. strange tuesday. 
+# 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
+## +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
 ### 
 - ✨Titles since 18 yo✨:
   - 😄 Burger King Staff Employee @ Lodi NJ 2005 ( 1 month ) @ $4.5/hr
