@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-#![PLAN-A-yodadb-dot-com](http://yodadb.com)
+#http://yodadb.com
 
 ## 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
 #### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
