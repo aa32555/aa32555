@@ -11,16 +11,20 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 
-## 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
-#### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
-#### I'm here to talk to you about yodadb.com
-#### working on it as we speak, .... 7a Ma Da
-## from El Reeeee-yaaaaa-dddddd...S E S
-### 
+- [Intro](#intro)
+- [About](#about)
+- [Installing](#installing)
+- [License](#license)
+- [Copyright notice](#copyright-notice) 
 
-# http://yodadb.com
+## Intro www.yodadb.com
+### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
+### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
+### I'm here to talk to you about yodadb.com
 
+## http://yodadb.com
 
+## Intro
 - ✨Titles since 18 yo✨:
   - 😄 Burger King Staff Employee @ Lodi NJ 2005 ( 1 month ) @ $4.5/hr
   - 😄 Calculus II (152 for Engineers) TA ( 2 sememsters @ $45/week)
@@ -50,6 +54,17 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
+
+
+## Installation of Yodadb.com [ydb] coming soon. ( see the yoda repo for now... )
+
+## License
+
+See [LICENSE.md](./LICENSE.md). [coming soon]
+
+## Copyright notice
+
+Copyright [Yoda Database](https://yodadb.com) and `ydb` contributors. All rights reserved. The [Yoda Database](https://yodadb.com) has registered trademarks and uses trademarks.  For a list of trademarks of the [Yoda Database](https://yodadb.com), please see our [Trademark Policy](http://yodadb.com/)
 
 ### ads##.net – Advanced Data System (1 like Allah)
 ### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
