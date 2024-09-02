@@ -11,20 +11,18 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 
-- [Intro](#intro)
 - [About](#about)
 - [Installing](#installing)
 - [License](#license)
 - [Copyright notice](#copyright-notice) 
 
-## Intro www.yodadb.com
+## About
 ### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
 ### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
 ### I'm here to talk to you about yodadb.com
 
 ## http://yodadb.com
 
-## Intro
 - ✨Titles since 18 yo✨:
   - 😄 Burger King Staff Employee @ Lodi NJ 2005 ( 1 month ) @ $4.5/hr
   - 😄 Calculus II (152 for Engineers) TA ( 2 sememsters @ $45/week)
@@ -56,7 +54,16 @@ You can click the Preview link to take a look at your changes.
     - None
 
 
-## Installation of Yodadb.com [ydb] coming soon. ( see the yoda repo for now... )
+## Installation of Yodadb
+
+
+```sh
+curl -o- https://raw.githubusercontent.com/aa32555/yoda/main/yodadatabase_install_per_order_of_the_king.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+ydb & enjoy
+```
+
+
 
 ## License
 
@@ -68,8 +75,6 @@ Copyright [Yoda Database](https://yodadb.com) and `ydb` contributors. All rights
 
 ### ads##.net – Advanced Data System (1 like Allah)
 ### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
-
-## Cuurrent favorite song by Mrs Shakira:
 
 ```
 رَبُّ السَّماءِ، فيك الرجاءِ
