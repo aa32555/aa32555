@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 - Allergies:
     - None
 
-### ads##.net – Advanced Data System (1 like Allah)
+### ads##.net – Advanced Data Systems
 ### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
 
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
