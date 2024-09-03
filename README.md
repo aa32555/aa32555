@@ -53,8 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 ```sh
 curl -o- https://raw.githubusercontent.com/aa32555/yoda/main/yodadatabase_install_per_order_of_the_king.sh | bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
-ydb & enjoy
 ```
 
 
