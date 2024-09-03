@@ -12,6 +12,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 🇸🇦 http://yodadb.com
+
+
+
+
+
+رَبُّ السَّماءِ، فيك الرجاءِ
+في عينيها أرى الحياةِ
+آتِي إِلَيْكَ مِنْ هَذا الكَوْنِ
+أرجوك، رَبِّي، لَبِّي نِدائي.
+.
+.
+.
+.
+.
 ### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
 ### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
 
@@ -47,14 +61,6 @@ You can click the Preview link to take a look at your changes.
 
 ### ads##.net – Advanced Data System (1 like Allah)
 ### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
-
-```
-رَبُّ السَّماءِ، فيك الرجاءِ
-في عينيها أرى الحياةِ
-آتِي إِلَيْكَ مِنْ هَذا الكَوْنِ
-أرجوك، رَبِّي، لَبِّي نِدائي
-```
-
 
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
 ![kiss me](https://raw.githubusercontent.com/aa32555/yoda/main/public/bg1.png)
