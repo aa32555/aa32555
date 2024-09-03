@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 
-# 🇸🇦http://yodadb.com🇸🇦
+# 🇸🇦 http://yodadb.com
+- 🇸🇦 https://www.github.com/aa32555/yoda
 
 ### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
 ### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
@@ -46,24 +47,6 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
-
-
-## Installing
-
-
-```sh
-curl -o- https://raw.githubusercontent.com/aa32555/yoda/main/yodadatabase_install_per_order_of_the_king.sh | bash
-```
-
-
-
-## License
-
-See [LICENSE.md](./LICENSE.md). [coming soon]
-
-## Copyright notice
-
-Copyright [Yoda Database](https://yodadb.com) and `ydb` contributors. All rights reserved. The [Yoda Database](https://yodadb.com) has registered trademarks and uses trademarks.  For a list of trademarks of the [Yoda Database](https://yodadb.com), please see our [Trademark Policy](http://yodadb.com/)
 
 ### ads##.net – Advanced Data System (1 like Allah)
 ### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
