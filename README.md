@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
 # 🇺🇸 SS# ###-##-9858
 # 🇪🇬 12 share3 koliat el teb, me7atit el raml, Alexandria Egypt
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/aa.png)
-![megif](https://raw.githubusercontent.com/aa32555/YodaDB.com/blob/main/aa.gif)
+
+
+![megif](https://raw.githubusercontent.com/aa32555/YodaDB.com/main/aa.gif)
 
 
 
