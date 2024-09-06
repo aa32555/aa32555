@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 
-# 🇸🇦 [http://yodadb.com](http://www.yodadb.com)
-# 😄 [REPO](https://www.github.com/aa32555/YodaDB.com)
+# 🇸🇦 [http://yodadb.com](http://www.yodadb.com)  😄 [REPO](https://www.github.com/aa32555/YodaDB.com) 👀
 ### 🇺🇸 SS# ###-##-9858
 ### 🇪🇬 12 share3 koliat el teb, me7atit el raml, Alexandria Egypt
 ### 🇸🇦 ads##.net – Advanced Data Systems
