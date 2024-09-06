@@ -15,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 # 😄 [REPO](https://www.github.com/aa32555/YodaDB.com)
 # 🇺🇸 SS# ###-##-9858
 # 🇪🇬 12 share3 koliat el teb, me7atit el raml, Alexandria Egypt
+# 🇸🇦 ads##.net – Advanced Data Systems
+# 🇸🇦 . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
+
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/aa.png)
+![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
 ![megif](https://raw.githubusercontent.com/aa32555/YodaDB.com/main/aa.gif)
 
 ### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s (870908..y2k..y? huh?)
@@ -51,7 +55,3 @@ You can click the Preview link to take a look at your changes.
 - Allergies:
     - None
 
-### ads##.net – Advanced Data Systems
-### . +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
-
-![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
