@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 🇸🇦 [http://yodadb.com](http://www.yodadb.com)
-# 😄 [REPO}(https://www.github.com/aa32555/YodaDB.com)
+# 😄 [REPO](https://www.github.com/aa32555/YodaDB.com)
 # 🇺🇸 SS# ###-##-9858
 # 🇪🇬 12 share3 koliat el teb, me7atit el raml, Alexandria Egypt
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/aa.png)
