@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 .
 .
 .
-### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s 
+### 👋 Hi, I’m @aa32555. My Nickname is 7amada and Im born in Saudia Arabia, in the late 80s (870908..y2k..y? huh?)
 ### +966 9200 17666; +966 11 217 3200; King Abdulaziz Road, An Nafal District, Riyadh 13312, Saudi Arabia. ADS 
 
 - ✨Titles since 18 yo✨:
