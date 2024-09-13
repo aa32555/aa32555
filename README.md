@@ -10,31 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡```
-
-
-To try out yodadb.com, fill in the following in the 
-connection details:
-        IP: 204.13.233.29
-        PORT: 5012
-
-
-To tryout the salon app @ http://www.yodadb.com:7777/
-  email : ahmedatyodadb@gmail.com
-  password: 12345678
-
-
-  data for both apps are on 204.13.233.29, not YodaDB.com```
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-
-
-
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/aa.png)
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
-![megif](https://raw.githubusercontent.com/aa32555/YodaDB.com/main/osiris/ezgif.com-animated-gif-maker.gif)
-![megif](https://raw.githubusercontent.com/aa32555/YodaDB.com/main/osiris/hi.png)
-
 
 # 🇸🇦 [http://yodadb.com](http://www.yodadb.com)  😄 [REPO](https://www.github.com/aa32555/YodaDB.com) 👀
   - ### 🇺🇸 SS# ###-##-9858
