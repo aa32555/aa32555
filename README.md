@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-![me](https://raw.githubusercontent.com/aa32555/fuz/main/hi.png)
-
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/aa.png)
 
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7)
@@ -54,4 +52,7 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
+
+![me](https://raw.githubusercontent.com/aa32555/fuz/main/hi.png)
+![me](https://raw.githubusercontent.com/aa32555/fuz/main/Screenshot%202024-09-15%2010.03.38%20AM.png)
 
