@@ -11,7 +11,11 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/meee.png)
-[https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69](THank you K S Bhaskar...احمد خالد محمد عبد الرازق) 
+
+
+# 😄 [https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69](THank you K S Bhaskar...احمد خالد محمد عبد الرازق) 
+
+
 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://github.com/user-attachments/assets/5fce8c98-9205-43e3-971b-db69d14aecb7) 
 
 
