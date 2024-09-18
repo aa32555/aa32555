@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-# 🪱 <- magic 👀
-![me](https://raw.githubusercontent.com/aa32555/fuz/main/meee.png) 👀
+# 🪱 <- magic 
+![me](https://raw.githubusercontent.com/aa32555/fuz/main/meee.png) 
 
-# 🐛 69 Thank U's Bhaskar...🇸🇦احمد خالد محمد عبد الرازق 🇸🇦](https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 👀
+# 🐛 69 Thank U's Bhaskar...🇸🇦احمد خالد محمد عبد الرازق 🇸🇦](https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 
 
 
-# 🦋 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 👀
+# 🦋 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 
 
 
 
@@ -26,6 +26,19 @@ You can click the Preview link to take a look at your changes.
  # 🎥 [Hair Salon Sample M app video](https://www.youtube.com/watch?v=BdRVduf7Ylk) 🎥
  # 🐶 [Hair Salon REPO](https://www.github.com/aa32555/efuzy.com) 🐶
  # 🦒 [M Docs (work in progress)](https://aa32555.github.io/efuzy.com)  🦒
+
+ ```bash
+(from the yottadb.com repo)
+#To try out yodadb.com, fill in the following in the 
+#connection details:
+#        IP: 204.13.233.29
+#        PORT: 5012
+#To tryout the salon app @ http://www.yodadb.com:7777/
+#  email : ahmedatyodadb@gmail.com
+#  password: 12345678
+#  data for both apps are on 204.13.233.29, not YodaDB.com```
+
+```
 
   - ### 🇺🇸 SS# ###-##-9858 👀
   - ### 🇪🇬 12 share3 koliat el teb, me7atit el raml, Alexandria Egypt 👀
