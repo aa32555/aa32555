@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
    - ⚡ Spanish
 - Allergies:
     - None
-
+![me](https://raw.githubusercontent.com/aa32555/fuz/main/eh.png)
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/hi.png)
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/Screenshot%202024-09-15%2010.03.38%20AM.png)
 
