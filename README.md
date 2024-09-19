@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
  # 🐶 [Hair Salon REPO](https://www.github.com/aa32555/efuzy.com) 🐶
  # 🦒 [M Docs (work in progress)](https://aa32555.github.io/efuzy.com)  🦒
 
+# [demo 1](https://screencast.apps.chrome/12_tcarozzVyXLdlbGwDyFgY_rsz5dpuL?createdTime=2024-09-18T22%3A51%3A57.975Z)
+# [demo 2](https://screencast.apps.chrome/12BQANIitCVTTL55opHgCLcC9NWgIaggT?createdTime=2024-09-18T22%3A45%3A21.035Z)
+
+
  ```bash
 (from the yottadb.com repo)
 #To try out yodadb.com, fill in the following in the 
