@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 # 🪱 <- magic 
-![me](https://raw.githubusercontent.com/aa32555/fuz/main/meee.png) 
+![me](https://raw.githubusercontent.com/aa32555/fuz/main/hamads.png) 
 # 🐛 🇸🇦 احمد خالد محمد احمد عبد الرازق 🇸🇦 (https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 
 # 🦋 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 
  # 🐱 [http://yodadb.com-M Opensource IDE](http://www.yodadb.com) 🐱
