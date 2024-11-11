@@ -47,15 +47,15 @@ Lastly, I also used to be the Director of Implementation and training at Advance
    - ⚡ Spanish
  
    - 
- # 🐱 [http://yodadb.com-M Opensource IDE](http://www.yodadb.com) 🐱
- # 🐭 [M IDE REPO](https://www.github.com/aa32555/YodaDB.com) 🐭
- # 🐦‍⬛ [efuzy.com hair salon M web app](http://www.yodadb.com:7777#/hair-salon-app/efuzy.com)🐦‍⬛
- # 🎥 [Hair Salon Sample M app video](https://www.youtube.com/watch?v=BdRVduf7Ylk) 🎥
- # 🐶 [Hair Salon REPO](https://www.github.com/aa32555/efuzy.com) 🐶
- # 🦒 [M Docs (work in progress)](https://aa32555.github.io/efuzy.com)  🦒
+ ### 🐱 [http://yodadb.com-M Opensource IDE](http://www.yodadb.com) 🐱
+ ### 🐭 [M IDE REPO](https://www.github.com/aa32555/YodaDB.com) 🐭
+ ### 🐦‍⬛ [efuzy.com hair salon M web app](http://www.yodadb.com:7777#/hair-salon-app/efuzy.com)🐦‍⬛
+ ### 🎥 [Hair Salon Sample M app video](https://www.youtube.com/watch?v=BdRVduf7Ylk) 🎥
+ ### 🐶 [Hair Salon REPO](https://www.github.com/aa32555/efuzy.com) 🐶
+ ### 🦒 [M Docs (work in progress)](https://aa32555.github.io/efuzy.com)  🦒
 
-# 🎥 [demo 1](https://screencast.apps.chrome/12_tcarozzVyXLdlbGwDyFgY_rsz5dpuL?createdTime=2024-09-18T22%3A51%3A57.975Z)
-# 🎥 [demo 2](https://screencast.apps.chrome/12BQANIitCVTTL55opHgCLcC9NWgIaggT?createdTime=2024-09-18T22%3A45%3A21.035Z)
+### 🎥 [demo 1](https://screencast.apps.chrome/12_tcarozzVyXLdlbGwDyFgY_rsz5dpuL?createdTime=2024-09-18T22%3A51%3A57.975Z)
+### 🎥 [demo 2](https://screencast.apps.chrome/12BQANIitCVTTL55opHgCLcC9NWgIaggT?createdTime=2024-09-18T22%3A45%3A21.035Z)
 
 
 
