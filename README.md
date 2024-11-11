@@ -14,6 +14,27 @@ You can click the Preview link to take a look at your changes.
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/hamads.png) 
 # 🐛 🇸🇦 احمد خالد محمد احمد عبد الرازق 🇸🇦 (https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 
 # 🦋 ![Thank You K S Bhaskar and Naryanan...RIP Ahmed Abdelrazek. We will never forget](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 
+
+```
+Expert in MUMPS, Cache Object Script, Nodejs, Vuejs and JavaScript with over 13 years experience as a Full Stack Software Engineer.  I have experience in both the healthcare field and the financial sector having worked on both EMR and Practice management systems. Worked at notebly:
+
+
+ - Veterinary Centers of America. VCA.org (Sr. Software Engineer)
+ - Capital One Bank. capitaleone.com (MUMPS Systems Engineer)
+ - GTV.org startup (javascript only position)
+
+
+
+ I also have experience working on big data conversions, HL7, CCDA, JSON among other data exchange protocols. I am both a functional programmer, and an Object Oriented programmer, utilizing MUMPS functionally, and Cache Object Script when OOP is needed.  I use Cache Server Pages as a REST API to interface with Vue.js in projects that require Cache Object Script, and the VA Vista Web server in projects requiring ANSI MUMPS as an API. I also extensively use Nodejs in conjunction with MUMPS and Cache Object Script. I am ready to showcase a variety of hobby projects to demonstrate my different skills as a Software Developer capable of working in a variety of different domains, using different technologies. 
+
+
+ 
+Lastly, I also used to be the Director of Implementation and training at Advanced Data System when I used to be a junior developer, as I was hired originally for my management background, as I started my career as a safe serve certified barista that moved up the Dunkin Donuts ladder.
+
+
+```
+
+
  # 🐱 [http://yodadb.com-M Opensource IDE](http://www.yodadb.com) 🐱
  # 🐭 [M IDE REPO](https://www.github.com/aa32555/YodaDB.com) 🐭
  # 🐦‍⬛ [efuzy.com hair salon M web app](http://www.yodadb.com:7777#/hair-salon-app/efuzy.com)🐦‍⬛
