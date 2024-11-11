@@ -11,10 +11,12 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 # 🪱 <- magic 
-👋 Hi, I’m @aa32555 - Ahmed
+### 👋 Hi, I’m @aa32555 - Ahmed
+
 ![me](https://raw.githubusercontent.com/aa32555/fuz/main/hamads.png) 
-# 🐛 🇸🇦 احمد خالد محمد احمد عبد الرازق Ahmed Khaled Mohamed Ahmed Abdelelrazek (https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 
-# 🦋 ![ ](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 
+
+### 🐛 🇸🇦 احمد خالد محمد احمد عبد الرازق Ahmed Khaled Mohamed Ahmed Abdelelrazek (https://gitlab.com/YottaDB/DB/YDB/-/blob/master/ci/commit_verify.sh?ref_type=heads#L69) 
+### 🦋 ![ ](https://raw.githubusercontent.com/aa32555/fuz/main/361489917-5fce8c98-9205-43e3-971b-db69d14aecb7.png) 
 
 ```
 Expert in MUMPS, Cache Object Script, Nodejs, Vuejs and JavaScript with over 13 years experience as a Full Stack Software Engineer.  I have experience in both the healthcare field and the financial sector having worked on both EMR and Practice management systems. Worked at notebly:
