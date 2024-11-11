@@ -46,7 +46,7 @@ Lastly, I also used to be the Director of Implementation and training at Advance
    - ⚡ English
    - ⚡ Spanish
  
-   - 
+  
  ### 🐱 [http://yodadb.com-M Opensource IDE](http://www.yodadb.com) 🐱
  ### 🐭 [M IDE REPO](https://www.github.com/aa32555/YodaDB.com) 🐭
  ### 🐦‍⬛ [efuzy.com hair salon M web app](http://www.yodadb.com:7777#/hair-salon-app/efuzy.com)🐦‍⬛
